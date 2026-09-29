@@ -1,0 +1,21 @@
+DepartmentID,DepartmentName,DepartmentHead,AnnualBudget,EmployeeCount
+1,Sales,Monica Herrera,2967741.77,61
+2,Marketing,Jamie Arnold,5548197.59,167
+3,Finance,Lisa Hensley,1238823.73,187
+4,Operations,Michele Williams,2789538.86,81
+5,Human Resources,Dylan Miller,6848959.94,146
+6,Information Technology,Brian Ramirez,5904473.33,70
+7,Customer Success,Holly Wood,2983965.6,191
+8,Procurement,Derek Zuniga,6303391.15,125
+9,Supply Chain,Lisa Jackson,8284874.11,142
+10,Legal,Carla Gray,1058488.84,197
+11,Compliance,Margaret Hawkins DDS,8252373.27,99
+12,Business Analytics,Patty Perez,7283254.55,67
+13,Product Development,Ethan Adams,4062254.65,61
+14,Engineering,Tommy Walter,2399315.5,108
+15,Data Engineering,Matthew Foster,9614917.65,124
+16,Information Security,Judy Baker,4029350.91,70
+17,Risk Management,Justin Baker,1834712.59,109
+18,Corporate Strategy,Stephanie Ross,1870447.39,75
+19,Administration,Zachary Hicks,8627449.3,147
+20,Research & Development,Anthony Rodriguez,6433534.28,121

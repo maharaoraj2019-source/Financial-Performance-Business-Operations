@@ -1,0 +1,13 @@
+RegionID,RegionName,Country,Market
+1,North America,United States,AMER
+2,South America,Brazil,LATAM
+3,Western Europe,Germany,EMEA
+4,Eastern Europe,Poland,EMEA
+5,Middle East,United Arab Emirates,MEA
+6,Africa,South Africa,MEA
+7,South Asia,India,APAC
+8,East Asia,Japan,APAC
+9,Southeast Asia,Singapore,APAC
+10,Oceania,Australia,APAC
+11,Central America,Mexico,LATAM
+12,Nordic Region,Sweden,EMEA
